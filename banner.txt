@@ -1,0 +1,25 @@
+<!-- banner container with some info -->
+    <div class="container-fluid home home1">
+        <div class="overlay"></div>
+        <div class=" homeContent">
+            <h1 class="homeContentHead">Let's find a home<br> that's perfect for you.</h1>
+            <p class="paraContent">Search confidently with you trusted source of homes for <br>sale or rent.</p>
+            <div class="searchBar bg-white">
+                <div class="row">
+                    <div class="col-3">
+                        <a href="#location">Location</a>
+                        
+                        <span><ion-icon name="chevron-down-outline"></ion-icon></span>
+                    </div>
+                    <div class="col-4">
+                        <a href="#">Average Price</a>
+                        <span><ion-icon name="chevron-down-outline"></ion-icon></span>
+                    </div>
+                    <div class="col">
+                        <span><ion-icon name="search-outline"></ion-icon></span>
+                        <input type="text" placeholder="search">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
